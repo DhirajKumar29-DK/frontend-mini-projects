@@ -1,4 +1,4 @@
-const apiKey ="9365402f787a41118a9fd4f09514d37d";
+const apiKey ="YOUR_API_KEY_HERE";
 
 const blogContainer =document.querySelector("#blog-container");
 
